@@ -1,0 +1,10 @@
+# Module Ownership
+/ml/                    @person1
+/backend/               @person2
+/frontend/              @person3
+/rag/                   @person4
+/shared/                @person2 @person4
+/deployment/            @person2
+/docs/                  @person3
+/.github/               @person2
+docker-compose.yml      @person2
