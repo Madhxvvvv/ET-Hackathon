@@ -1,0 +1,8 @@
+SAMPLE — not official. Placeholder for testing only.
+
+OTP Scam — Awareness Summary
+Never share an OTP with anyone over phone, SMS, or call, even if the caller
+claims to be from your bank, a delivery company, or a government office.
+Banks never ask for OTPs to "verify" or "reverse" a transaction. If you
+shared an OTP and notice unauthorized activity, report it immediately to
+your bank and at cybercrime.gov.in.

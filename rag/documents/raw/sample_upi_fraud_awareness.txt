@@ -1,0 +1,7 @@
+SAMPLE — not official. Placeholder for testing only.
+
+UPI Fraud — Awareness Summary
+Scammers send fake "collect requests" disguised as refunds, or ask victims
+to scan a QR code to "receive" money — scanning a QR code or entering a UPI
+PIN always sends money out, never receives it. Verify the payee name before
+approving any UPI request.
