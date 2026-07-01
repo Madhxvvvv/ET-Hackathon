@@ -32,7 +32,7 @@ install-rag:
 	cd rag && pip install -r requirements.txt
 
 dev-rag:
-	cd rag && uvicorn app.main:app --reload --port 8001
+	cd rag && python -m src.ingestion.ingest
 
 test-rag:
 	cd rag && pytest tests/
